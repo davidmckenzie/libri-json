@@ -1,0 +1,15 @@
+{
+  "name": "libri-json",
+  "version": "0.0.1",
+  "description": "JSON formatted Class A Thelemite texts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmckenzie/libri-json.git"
+  },
+  "author": "Aleister Crowley",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/davidmckenzie/libri-json/issues"
+  },
+  "homepage": "https://github.com/davidmckenzie/libri-json#readme"
+}
